@@ -1,4 +1,4 @@
-FROM maven:3.5-jdk-8
+FROM openjdk:8-jdk
 
 LABEL maintainer <coders@tech.io>
 
